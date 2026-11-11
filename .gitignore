@@ -1,0 +1,32 @@
+# API credentials and environment variables
+.streamlit/secrets.toml
+.env
+.env.*
+
+# Temporary testing files
+test_gemini.py
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+

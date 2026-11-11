@@ -1,0 +1,2 @@
+data_type,control_visitors,control_conversions,variant_visitors,variant_conversions,control_conversion_rate,variant_conversion_rate,absolute_lift,relative_lift,p_value,ci_lower,ci_upper,control_revenue_per_visitor,variant_revenue_per_visitor,revenue_change,statistically_significant,revenue_guardrail_passed,decision
+Simulated practice data,5000,1744,5000,1994,0.3488,0.3988,0.04999999999999999,0.14334862385321098,2.3749758778910676e-07,0.03104124323456246,0.06890817905364288,72.0,70.5,-0.020833333333333332,True,False,Do Not Ship - Revenue Guardrail failed

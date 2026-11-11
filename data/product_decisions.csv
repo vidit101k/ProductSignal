@@ -1,0 +1,4 @@
+opportunity,observed_metric,target_scenario,priority,evidence,recommendation,validation
+Product Page Conversion,34.87,39.87,High,"View-to-cart conversion is 34.87%,compared with the 39.87%target scenario.", Investigate product-page friction and run A/B test before rolling out a change.,Requires controlled experiment
+Checkout Optimization,,,Medium,Checkout is a proposed product initiative; this engine does not yet diagnose the cause of checkout drop-off.,Review checkout-stage metric and user friction before selecting a change to test.,Requires further investigation
+Channel Performance,22951.09,,,Email has the highest observed revenue per product-view session(₹22951.09). Paid Ads has the lowest(₹21525.08).,"Investigate acquisition costs, margins, and incrementality before changing channel budgets.",Revenue efficiency is not the same as profitability
